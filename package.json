@@ -1,0 +1,11 @@
+{
+  "name": "tickgraf",
+  "version": "1.0.0",
+  "description": "Tictactoe bot w/ telegraf",
+  "main": "index.js",
+  "author": "Hanif",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.4.1"
+  }
+}
